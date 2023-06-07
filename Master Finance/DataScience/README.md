@@ -1,7 +1,7 @@
 Data Science Coursework : A Staggered DiD Model on Policy Rates; Sept-Dec 2022
 # More
 This was based on the recent papers published by Brent Callaway, Andrew Goodman-Bacon and Pedro
-H.C. Sant’Anna (2021) in “Differences-in-Differences with a Continuous Treatment”. as well as 
+H.C. Sant’Anna (2021) in “Differences-in-Differences with a Continuous Treatment” as well as 
 Callaway and Sant’Anna, “Difference-in-Differences with multiple periods” (2021). The author of this paper have proposed a R package that lets you easily
 implement this type of models (see: https://cran.r-project.org/web/packages/did/vignettes/did-basics.html) which I Highly reccomend. But to have more control
 over our Model, we decided to work on our own package using Python. The entire code is avalaible in this section.
