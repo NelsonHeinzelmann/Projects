@@ -1,5 +1,3 @@
-TITLE
-
 Bachelor HEC Lausanne Coursework : Impact of Commodity Price Shocks on US GDP
 
 Overview:
