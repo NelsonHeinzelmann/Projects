@@ -1,3 +1,19 @@
-Bachelor HEC Lausanne Coursework : Impact of Commodity Price Shocks on US GDP
+Data Science Coursework : A Staggered DiD Model on Policy Rates
 
-Overview: This research paper examines the influence of commodity price shocks on the Gross Domestic Product (GDP) of the United States. The study utilizes data from the FRED database of the Federal Reserve Bank of St. Louis spanning a period of 19 years. To analyze the relationship, both a Vector Autoregression (VAR) model and a Structural VAR (SVAR) model are employed. The paper aims to estimate the Impulse Response Functions of these models and investigates the effects of a one-standard-deviation shock to the growth rate of commodity prices on the growth rate of GDP. The findings indicate a positive impact on GDP growth rate in response to commodity price shocks in both models. Overview Features
+For the first time since 2008, we are facing a continuous increase in prices and
+observing relatively sharp inflation. Many studies show that the optimal policy
+response to rising inflation is to increase interest rates. Indeed, many central banks
+have decided to adopt this strategy. These recent events have therefore aroused our
+curiosity and motivated us to study the impact of such decisions. In this paper, we
+will attempt to explain how exchange rates behave when a country decides to
+increase its interest rates through the case of the Global Financial Crisis and the
+years that followed. To achieve this, we will calculate the average treatment effect of
+the interest rate change on a country’s exchange rate. The model used is a staggered
+diff-in-diff using a Two-way Fixed effect to account for the country and the reaction
+speed.
+The findings show that an increase in interest rates results in an appreciation of the
+currency in the short term. A second implication is that the speed at which banks
+react would seem to have a positive impact on the purchasing power of a currency.
+Pushing our research further might lead to a better understanding of a country’s
+international influence that its exchange rate has following its national policy rate
+changes.
