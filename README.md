@@ -17,7 +17,7 @@ Although I have not yet had the opportunity to work extensively on projects base
 
 Looking ahead, I am committed to expanding my proficiency in TensorFlow by actively seeking out projects that involve its application. Additionally, I am interested in exploring Pybind to further enhance my understanding of its usage and integration with Python.
 
-Get in Touch
-Feel free to explore the projects I have undertaken in this repository. If you have any questions, need further information, please don't hesitate to reach out to me.
+# Get in Touch
+Feel free to explore the projects I have undertaken in this repository. If you have any questions, need further information, please don't hesitate to reach out to me via : nelson.heinzelmann@unil.ch
 
 Thank you for visiting my projects repository, and I hope you find the showcased projects insightful and engaging.
