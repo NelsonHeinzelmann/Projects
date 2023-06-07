@@ -1,11 +1,23 @@
-# Projects
-In this repository, I will showcase the projects I worked on during my time at HEC Lausanne, encompassing both Bachelor's and Master's works, with a focus on the Data Science & Entrepreneurship option within the Master in Finance program. These projects primarily utilize Python and Stata, employing various models such as LSTM, VAR, SVAR, and Staggered DiD.
+# Projects Repository
+Welcome to my projects repository! This repository showcases the projects I have worked on during my time at HEC Lausanne, encompassing both my Bachelor's and Master's works. Within the Master in Finance program, I specialized in the Data Science & Entrepreneurship option, focusing on leveraging Python and Stata to explore various models such as LSTM, VAR, SVAR, and Staggered DiD.
 
-Some of the prominent projects that I have not shared on my GitHub page involves exploring diverse financial models in Python, with a specific emphasis on volatility modeling. Additionally, throughout my studies, I have delved into advanced topics beyond what is presented here. This includes gaining proficiency in C++ (OOP), parallel programming (both in Python and C++), and possessing an advanced level of expertise in Stata, working extensively with various statistical models. Also, I am also proeficient in Latex to write any type of reports. I find all of these subjects particularly fascinating when they are integrated with the field of Finance or Economics.
+# Contents
+The repository contains a selection of prominent projects that I have worked on during my academic journey. In addition to the projects shared on my GitHub page, I have also delved into advanced topics beyond what is presented here. These include exploring diverse financial models in Python, with a specific emphasis on volatility modeling. Moreover, throughout my studies, I have acquired proficiency in various areas, such as:
+
+C++ (OOP): I have developed a solid understanding of object-oriented programming principles in C++.
+Parallel Programming: I have gained experience in parallel programming using both Python and C++.
+Advanced Stata: I possess an advanced level of expertise in Stata and have extensively worked with various statistical models.
+LaTeX: I am proficient in LaTeX and can effectively utilize it to write reports and documents.
+I find integrating these subjects with the fields of Finance and Economics particularly fascinating.
 
 # Expertise and Future Plans
-My primary area of expertise lies in Python, where I have acquired comprehensive knowledge of various concepts and tools. Specifically, I have a strong command of data structures, including Numpy and Pandas, and I am proficient in implementing SQL queries within these libraries. Additionally, I am well-versed in object-oriented programming (OOP) principles and have utilized TensorFlow for machine learning tasks. I am also familiar with the scikit-learn (sklearn) library and have a good understanding of its functionalities. Although I have not yet had the opportunity to work on projects that are primarily based on scikit-learn, I am confident in my ability to leverage this powerful library for various machine learning tasks.
-While my current focus has primarily been on LSTM models in machine learning, I possess a broader theoretical understanding of the field of AI as a whole. I am deeply passionate about AI and strive to expand my knowledge and expertise in this domain continually. I am eager to explore more complex machine learning models and deepen my practical experience in the field.
+My primary area of expertise lies in Python. I have acquired comprehensive knowledge of various concepts and tools that are widely used in data science. Specifically, I have a strong command of data structures, including libraries like Numpy and Pandas. Furthermore, I am proficient in implementing SQL queries within these libraries, enabling efficient data manipulation and analysis. Additionally, I am well-versed in object-oriented programming (OOP) principles and have utilized TensorFlow for machine learning tasks. While my focus has primarily been on LSTM models in machine learning, I possess a broader theoretical understanding of the field of AI as a whole.
 
-In terms of my future plans, I aim to further enhance my proficiency in TensorFlow by actively seeking out projects that involve its application. Additionally, I am interested in exploring Pybind to improve my understanding of its usage and integration with Python.
-Please feel free to explore the projects I have undertaken, and if you have any questions or require further information, I am here to assist you!
+Although I have not yet had the opportunity to work extensively on projects based on the scikit-learn (sklearn) library, I am familiar with its functionalities and confident in my ability to leverage it for various machine learning tasks.
+
+Looking ahead, I am committed to expanding my proficiency in TensorFlow by actively seeking out projects that involve its application. Additionally, I am interested in exploring Pybind to further enhance my understanding of its usage and integration with Python.
+
+Get in Touch
+Feel free to explore the projects I have undertaken in this repository. If you have any questions, need further information, please don't hesitate to reach out to me.
+
+Thank you for visiting my projects repository, and I hope you find the showcased projects insightful and engaging.
