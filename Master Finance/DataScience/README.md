@@ -1,6 +1,12 @@
 Data Science Coursework : A Staggered DiD Model on Policy Rates; Sept-Dec 2022
+# More
+This was based on the recent papers published by Brent Callaway, Andrew Goodman-Bacon and Pedro
+H.C. Sant’Anna (2021) in “Differences-in-Differences with a Continuous Treatment”. as well as 
+Callaway and Sant’Anna, “Difference-in-Differences with multiple periods” (2021). The author of this paper have proposed a R package that lets you easily
+implement this type of models (see: https://cran.r-project.org/web/packages/did/vignettes/did-basics.html) which I Highly reccomend. But to have more control
+over our Model, we decided to work on our own package using Python. The entire code is avalaible in this section.
 
-Abstract:
+# Abstract:
 For the first time since 2008, we are facing a continuous increase in prices and
 observing relatively sharp inflation. Many studies show that the optimal policy
 response to rising inflation is to increase interest rates. Indeed, many central banks
