@@ -1,0 +1,12 @@
+To Run the code:
+1. Run main_ml.py: This will execute all from generation the Data to testing it on the test set.
+As we used a hyperparameter tuning method to run our code (which took more than 6hours), we have added a version
+where you can run the code with the optimal parameters we found hard coded into the code.
+You can find the random searching method as commented out in main_ml.py. Also, to avoid that the model we trained
+gets overriden, we have also commented out the saving method.
+
+2. When the Model is trained ( if you decided to train a new model) or using the model we trained, you can run
+ML.py, which will use this model to do the simulation of the games and using the model for investment decisions.
+
+3. None of the others files needs to be run, also, all steps from the hyper parameter tunning can be found in the
+respective folder. We have also provided a .pdf that shows the output of the code when running the whole random searching process.

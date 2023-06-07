@@ -1,0 +1,6 @@
+Welcome to the world of financial analysis!
+As a financial analyst, you need to be aware of four critical economic indicators: inflation, the Federal Reserve (Fed) Rate, stock prices, and bond prices.
+Inflation is a measure of how much prices are rising, and it is essential to keep it in check to avoid a negative impact on the economy.
+The Fed Rate is the interest rate that banks charge each other for overnight loans, and it is a critical tool for the Fed to manage inflation.
+Stock prices are an important indicator of the health of the economy. A rising stock market usually indicates strong economic growth and confidence among investors. However, a falling stock market can indicate economic uncertainty.
+Bond prices are a crucial indicator of the health of the fixed income market. When bond prices are rising, interest rates are falling, indicating economic growth and investor confidence. However, when bond prices are falling, interest rates are rising, indicating potential economic trouble ahead.
