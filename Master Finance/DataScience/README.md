@@ -1,4 +1,4 @@
-Data Science Coursework : A Staggered DiD Model on Policy Rates; December 2022
+Data Science Coursework : A Staggered DiD Model on Policy Rates; Sept-Dec 2022
 
 Abstract:
 For the first time since 2008, we are facing a continuous increase in prices and
