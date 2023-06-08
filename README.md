@@ -9,6 +9,7 @@ Parallel Programming: I have gained experience in parallel programming using bot
 Stata: I possess an well knowledge in Stata and have extensively worked with various statistical models.
 LaTeX: I am proficient in LaTeX and can effectively utilize it to write reports and documents.
 Finance: This is obviously the subject I a most competent in. During my studies, I have completed numerous finance courses that have provided me with a wide range of tools and knowledge. My focus and expertise are primarily in asset management and financial econometrics.
+
 Additionally, I have also expanded my understanding through self-study by following various open-source courses available on the internet. Some notable resources include MIT Courseware: Topics In Mathematics With Applications In Finance, Stanford Online: Statistical Learning, Quantpy (a YouTube channel offering Python codes and explanations for various quantitative finance topics), and various courses from freecodecamp.org.
 
 # Expertise and Future Plans
