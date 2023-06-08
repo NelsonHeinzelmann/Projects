@@ -15,4 +15,4 @@ Beside Finance as a whole, my primary area of expertise lies in Python. I have a
 # Get in Touch
 Feel free to explore the projects I have undertaken in this repository. If you have any questions, need further information, please don't hesitate to reach out to me via : nelson.heinzelmann@unil.ch
 
-Thank you for visiting my projects repository, and I hope you find the showcased projects insightful and engaging.
+Thank you for visiting my projects repository.
