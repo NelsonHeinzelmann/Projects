@@ -17,7 +17,7 @@ Beside Finance as a whole, my primary area of expertise lies in Python. I have a
 
 Although I have not yet had the opportunity to work extensively on projects based on the scikit-learn (sklearn) library, I am familiar with its functionalities and confident in my ability to leverage it for various machine learning tasks.
 
-Looking ahead, I am committed to expanding my proficiency in TensorFlow by actively seeking out projects that involve its application. Additionally, I am interested in exploring Pybind to further enhance my understanding of its usage and integration with Python.
+Looking ahead, I am committed to expanding my proficiency in TensorFlow by actively seeking out projects that involve its application. Additionally, I was to continue refining my skills in Asset & Risk Management.
 
 # Get in Touch
 Feel free to explore the projects I have undertaken in this repository. If you have any questions, need further information, please don't hesitate to reach out to me via : nelson.heinzelmann@unil.ch
