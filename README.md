@@ -5,10 +5,10 @@ Welcome to my projects repository! This repository showcases the projects I have
 The repository contains a selection of prominent projects that I have worked on during my academic journey. In addition to the projects shared on my GitHub page, I have also delved into advanced topics beyond what is presented here. These include exploring diverse financial models in Python, with a specific emphasis on volatility modeling. Moreover, throughout my studies, I have acquired proficiency in various areas, such as:
 
 C++ (OOP): I have developed a solid understanding of object-oriented programming principles in C++.
-Parallel Programming: I have gained experience in parallel programming using both Python and C++.
-Advanced Stata: I possess an advanced level of expertise in Stata and have extensively worked with various statistical models.
+Parallel Programming: I have gained experience in parallel programming using both Python and C++ (Jit, MPI, OMP).
+Stata: I possess an well knowledge in Stata and have extensively worked with various statistical models.
 LaTeX: I am proficient in LaTeX and can effectively utilize it to write reports and documents.
-I find integrating these subjects with the fields of Finance and Economics particularly fascinating.
+
 
 # Expertise and Future Plans
 My primary area of expertise lies in Python. I have acquired comprehensive knowledge of various concepts and tools that are widely used in data science. Specifically, I have a strong command of data structures, including libraries like Numpy and Pandas. Furthermore, I am proficient in implementing SQL queries within these libraries, enabling efficient data manipulation and analysis. Additionally, I am well-versed in object-oriented programming (OOP) principles and have utilized TensorFlow for machine learning tasks. While my focus has primarily been on LSTM models in machine learning, I possess a broader theoretical understanding of the field of AI as a whole.
