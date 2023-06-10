@@ -1,5 +1,5 @@
 # Title
-dvances Data Analytics Coursework : LSTM Model to predict returns in a trading game : May-June 2023
+Advanced Data Analytics Coursework : LSTM Model to predict returns in a trading game : May-June 2023
 
 # Grading
 This project has not yet been graded.
