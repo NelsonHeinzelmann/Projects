@@ -5,7 +5,7 @@ On this page, you will find a selection of my notable projects, including an ana
 
 # Expertise and Future Plans
 My main expertise lies in Asset & Risk management. Additionally, I have gained comprehensive knowledge of various concepts and tools commonly used in data science, including Python (data structures, OOP, TensorFlow, etc.), Stata, C++ (basic understanding of OOP and parallel programming, including MPI and OMP), and LaTeX. This expertise allows me to effectively implement diverse models from the fields of finance, economics, and beyond. 
-Although the projects displayed on this page offer only a glimpse into my capabilities, they offer a representative sample of the diverse models I have explored. However, it is important to note that there are several subjects related to Asset & Risk management that are not featured in this repository. This is because these projects were more guided in nature and did not fully reflect my critical thinking. Therefore, I made the decision not to upload them here.
+Although the projects displayed on this page offer only a glimpse into my capabilities, they are a rather good representative sample of the diverse models I have explored. However, it is important to note that there are several subjects related to Asset & Risk management that are not featured in this repository. This is because these projects were more guided in nature making them less interesting. Therefore, I made the decision not to upload them here.
 
 In the future, I hope to be able to work on more ML models to enhance my understanding of TensorFlow and also have a broader understanding of its applications in Finance. Also, I want to keep working on more complex models to model Volatility as it remains of my favourite subjects to study 
 
