@@ -1,7 +1,5 @@
 # Title
 Advanced Programming : Writing a trading game in Python; May-June 2023
-# Grading
-This project has not yet been graded.
 # How to
 To Run the game all you have to do is to copy the /AdvancedProgramming folder and run the __init__.py file
 # Overview
