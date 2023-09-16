@@ -21,5 +21,5 @@ The findings show that an increase in interest rates results in an appreciation 
 currency in the short term. A second implication is that the speed at which banks
 react would seem to have a positive impact on the purchasing power of a currency.
 Pushing our research further might lead to a better understanding of a country’s
-international influence that its exchange rate has following its national policy rate
+the international influence that its exchange rate has following its national policy rate
 changes.
