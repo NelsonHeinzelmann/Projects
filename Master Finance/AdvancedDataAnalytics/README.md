@@ -1,9 +1,6 @@
 # Title
 Advanced Data Analytics Coursework : LSTM Model to predict returns in a trading game : May-June 2023
 
-# Grading
-This project has not yet been graded.
-
 # How to
 To run this model please refer to the RunningTheCode.txt file in the /Data folder
 
